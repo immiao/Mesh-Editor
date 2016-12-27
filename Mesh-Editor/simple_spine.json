@@ -1,0 +1,30 @@
+{
+	"root":
+	{
+		"name": "Hip",
+		"pos": [-3, 0, 0],
+		"rot": [0, 1, 0, 0],
+		"children": [
+			{
+				"name": "Spine1",
+				"pos": [2, 0, 0],
+				"rot": [0, 1, 0, 0],
+				"children": [
+					{
+						"name": "Spine2",
+						"pos": [2, 0, 0],
+						"rot": [0, 1, 0, 0],
+						"children": [
+							{
+								"name": "Spine3",
+								"pos": [2, 0, 0],
+								"rot": [0, 1, 0, 0],
+								"children": []
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
